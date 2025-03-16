@@ -1,7 +1,6 @@
 package com.example.FooBarQuix.sevice;
 
 import org.testng.annotations.Test;
-
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class FooBarQuixServiceTest {
